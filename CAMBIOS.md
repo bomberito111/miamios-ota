@@ -1,5 +1,11 @@
 # Cambios de miamiOS
 
+## 1.5 — 4 de noviembre de 2026
+- Reporte automático de fallos: nueva app "Fallos miamiOS". Junta las caídas, bloqueos y
+  reinicios inesperados que el sistema ya guarda, les quita correos, IP, redes y nombres de apps
+  de terceros, y los manda a un repo privado de GitHub. Sin servicio residente. Necesita que
+  pegues una vez un token de GitHub en la app; sin él los reportes esperan en el teléfono.
+
 ## 1.4 — 4 de noviembre de 2026
 - Brillo automático que aprende: con el brillo automático encendido, cada vez que mueves la barra
   queda guardado "con esta luz quiero este brillo" y la curva se recalibra (también para luces
