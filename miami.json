@@ -1,0 +1,18 @@
+[
+ {
+  "datetime": 1793751665,
+  "version": "1.3",
+  "type": "MIAMIOS",
+  "files": [
+   {
+    "filename": "miamiOS-1.3-miami.zip",
+    "sha256": "f5ade944dc7f177210a140573ab3ae0cc633284320388945c68079c9a016226a",
+    "size": 1708720535,
+    "url": "https://github.com/bomberito111/miamios-ota/releases/download/1.3/miamiOS-1.3-miami.zip",
+    "os_sdk_level": 37,
+    "os_patch_level": "2026-10-01",
+    "ota_property_files": "payload_metadata.bin:1513:136760,payload.bin:1513:1708713887,payload_properties.txt:1708715468:156,apex_info.pb:42:1414,metadata:1708716981:619,metadata.pb:1708717678:1058   "
+   }
+  ]
+ }
+]
