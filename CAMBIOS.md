@@ -9,6 +9,7 @@
   controlador de pantalla cuando nada se mueve (Motorola los traía apagados).
 - Memoria: el sistema ya no manda tan rápido las apps y juegos a la memoria comprimida
   (swappiness 60 en vez de 100): menos tirones al volver a una app.
+- Actualizador: ya dice miamiOS y la versión real (1.4) en vez de LineageOS 24.0; logo y textos propios.
 - Seguridad: revisión completa del sistema; sin parches nuevos disponibles para miami este mes
   (el último de LineageOS para miami sigue en el boletín de octubre).
 

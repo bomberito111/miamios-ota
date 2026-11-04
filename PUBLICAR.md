@@ -1,7 +1,7 @@
 # Publicar miamiOS 1.4 (correr en este orden, desde ~/Desktop/miamiOS/ota-canal)
 
 El repo bomberito111/miamios-ota ya existe (1.3 publicada). Paquete:
-../port/salida/ota/miamiOS-1.4-miami.zip, 1,6 GB, sha256 0d7990873ef2e79dac88a772dfb883df41ba669543c094194a2f388af0fa0f8c
+../port/salida/ota/miamiOS-1.4-miami.zip, 1,7 GB, sha256 f5eb3df4b796cc48aed8a6f601989a94f9ced94a79fa5ea45fd248095d6a4074
 
 1. Subir el paquete y las notas (miami.json todavía no, para que el teléfono no vea una versión
    cuyo zip aún no existe; demora):
