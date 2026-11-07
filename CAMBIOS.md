@@ -1,5 +1,12 @@
 # Cambios de miamiOS
 
+## 1.6 — 7 de noviembre de 2026
+- Arreglo para los cortes de música y video, y para el Bluetooth que saltaba al parlante: "Hey Google"
+  agotaba las sesiones de detección de voz y el sistema reiniciaba el audio una y otra vez.
+- Fallos miamiOS ahora funciona: antes se caía al arrancar y no podía leer los fallos del sistema.
+- Fallos también anota cuando el teléfono va lento: cuadros que no alcanzan los 120 Hz por app,
+  memoria, CPU y calor. Mide una vez por hora, sin servicio residente, y deja el detalle en el teléfono.
+
 ## 1.5 — 4 de noviembre de 2026
 - Reporte automático de fallos: nueva app "Fallos miamiOS". Junta las caídas, bloqueos y
   reinicios inesperados que el sistema ya guarda, les quita correos, IP, redes y nombres de apps
