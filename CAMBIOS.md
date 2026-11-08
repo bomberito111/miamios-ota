@@ -1,5 +1,19 @@
 # Cambios de miamiOS
 
+## 1.7 — 8 de noviembre de 2026
+- Pánico: 5 toques al botón de encendido ya **no llaman a emergencias**. Bloquean el teléfono,
+  apagan la huella (pide PIN) y cortan datos, Wi-Fi y Bluetooth. Se restaura desde Panel.
+- Panel miamiOS (nueva app): antenas con mapa, batería real, red por app, conexiones en vivo y pánico.
+  La primera vez pide permiso de Bluetooth y de notificaciones. Las conexiones en vivo piden root en KernelSU.
+- Seguridad miamiOS (nueva app): muro que bloquea conexiones entrantes por Wi-Fi, vigía que avisa
+  cambios del sistema, sin ssh.
+- Termux de sistema: tras actualizar se instalan solos Termux, Termux:API, Termux:Boot y KernelSU-Next.
+  Si ya los tienes, no se tocan. Al abrir Termux se bajan solos claude y agy con suma verificada.
+  Nadie tiene root hasta que lo des en KernelSU-Next.
+- Nodo Meshtastic virtual, solo MQTT, conectado a Mesh Chile (mqtt.meshchile.cl, msh/CL).
+  Vive solo mientras Termux está abierto. No trae usuario ni clave del broker: se configuran en el teléfono.
+- Fallos miamiOS sube todos los reportes por internet y avisa cuando la pantalla táctil se traba.
+
 ## 1.6 — 7 de noviembre de 2026
 - Arreglo para los cortes de música y video, y para el Bluetooth que saltaba al parlante: "Hey Google"
   agotaba las sesiones de detección de voz y el sistema reiniciaba el audio una y otra vez.
