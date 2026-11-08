@@ -62,5 +62,21 @@
     "ota_property_files": "payload_metadata.bin:1513:136767,payload.bin:1513:1724843034,payload_properties.txt:1724844615:156,apex_info.pb:42:1414,metadata:1724846128:619,metadata.pb:1724846825:1058   "
    }
   ]
+ },
+ {
+  "datetime": 1794112448,
+  "version": "1.7",
+  "type": "MIAMIOS",
+  "files": [
+   {
+    "filename": "miamiOS-1.7-miami.zip",
+    "sha256": "efeb66f3c9e536091f75e261d1114374d10d0c31b866736a61c038efc754dc8c",
+    "size": 1795247880,
+    "url": "https://github.com/bomberito111/miamios-ota/releases/download/1.7/miamiOS-1.7-miami.zip",
+    "os_sdk_level": 37,
+    "os_patch_level": "2026-10-01",
+    "ota_property_files": "payload_metadata.bin:1513:136817,payload.bin:1513:1795241232,payload_properties.txt:1795242813:156,apex_info.pb:42:1414,metadata:1795244326:619,metadata.pb:1795245023:1058   "
+   }
+  ]
  }
 ]
