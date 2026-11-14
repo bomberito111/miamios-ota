@@ -1,17 +1,8 @@
 # Cambios de miamiOS
 
-## 1.8 — 13 de noviembre de 2026
-- Ultra ahorro (nueva app Energía miamiOS y mosaico en ajustes rápidos): con el ahorro de batería
-  la pantalla baja a 48 Hz; fuera de él sigue en 120 Hz fijo.
-- Brillo automático más lento y suave al pasar de sol a sombra (curva propia de la pantalla).
-- Sonando ahora (nueva app): identificador de canciones propio, sin Google. Por ahora reconoce
-  la música que importes en el teléfono; la base de canciones descargable llegará más adelante.
-- Gestos miami (nueva app): girar la muñeca para abrir la cámara y otros gestos.
-- IA miamiOS (nueva app): cuatro acciones nuevas al seleccionar texto,
-  se puede elegir como asistente, y tema nuevo para el sistema y la barra de estado.
-- Encontrar mi dispositivo y los localizadores ya no se duermen: Google Play Services, la app
-  Encontrar mi dispositivo y Google Services Framework quedan fuera del ahorro de batería y de datos.
-- Termux: al abrirlo por primera vez aplica la estética de miamiOS.
+## 1.7.1 — 13 de noviembre de 2026
+- Vuelta a la 1.7: la 1.8 no funcionó bien y se retiró. Esta versión es la 1.7 tal cual, con fecha
+  nueva para que el teléfono la acepte. La pantalla queda siempre en 120 Hz, también en ahorro de energía.
 
 ## 1.7 — 8 de noviembre de 2026
 - Pánico: 5 toques al botón de encendido ya **no llaman a emergencias**. Bloquean el teléfono,
