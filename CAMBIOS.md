@@ -1,5 +1,10 @@
 # Cambios de miamiOS
 
+## 1.7.3 — 14 de noviembre de 2026
+- Encontrar mi dispositivo: Google Play Services, Encontrar mi dispositivo y los servicios de Google quedan
+  fuera del reposo profundo (Doze) y del ahorro de datos, fijo desde el sistema. Así los localizadores
+  deberían actualizarse en el teléfono sin tener que abrir la web.
+
 ## 1.7.2 — 14 de noviembre de 2026
 - Ultra ahorro: ahora existe de verdad. App "Ultra ahorro" con su ícono y pantalla, y mosaico en
   Ajustes rápidos. Al activarlo: apaga Wi-Fi y sincronización, baja el tiempo de pantalla a 15 s,
