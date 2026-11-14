@@ -1,5 +1,10 @@
 # Cambios de miamiOS
 
+## 1.7.4 — 14 de noviembre de 2026
+- Primer pase de la interfaz nueva en Ajustes: tema negro y gris sobrio en Configuración. Antenas,
+  Ultra ahorro, Fallos, Seguridad y el Panel ahora viven dentro de su pantalla nativa de Ajustes
+  (red, batería, seguridad), en vez de quedar sueltos como opciones aparte.
+
 ## 1.7.3 — 14 de noviembre de 2026
 - Encontrar mi dispositivo: Google Play Services, Encontrar mi dispositivo y los servicios de Google quedan
   fuera del reposo profundo (Doze) y del ahorro de datos, fijo desde el sistema. Así los localizadores
