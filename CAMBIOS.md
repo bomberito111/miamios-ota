@@ -1,5 +1,11 @@
 # Cambios de miamiOS
 
+## 1.7.2 — 14 de noviembre de 2026
+- Ultra ahorro: ahora existe de verdad. App "Ultra ahorro" con su ícono y pantalla, y mosaico en
+  Ajustes rápidos. Al activarlo: apaga Wi-Fi y sincronización, baja el tiempo de pantalla a 15 s,
+  quita animaciones y enciende el ahorro de batería de Android. Al apagarlo (o si apagas el ahorro
+  de Android) devuelve todo como estaba. La pantalla sigue siempre a 120 Hz.
+
 ## 1.7.1 — 13 de noviembre de 2026
 - Vuelta a la 1.7: la 1.8 no funcionó bien y se retiró. Esta versión es la 1.7 tal cual, con fecha
   nueva para que el teléfono la acepte. La pantalla queda siempre en 120 Hz, también en ahorro de energía.
