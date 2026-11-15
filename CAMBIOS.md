@@ -1,5 +1,11 @@
 # Cambios de miamiOS
 
+## 1.8 — 15 de noviembre de 2026
+- Diseño Pixel oscuro en las apps propias (Panel, Energía, Fallos, Seguridad, Gestos y Canciones) y modo oscuro del sistema por defecto.
+- Gestos y Canciones ahora vienen incluidas en la ROM.
+- Base para Play Integrity: módulos de integridad instalados en el primer arranque, con una guarda que los apaga si el arranque falla 3 veces. No incluye keybox.
+- Pantalla siempre a 120 Hz.
+
 ## 1.7.4 — 14 de noviembre de 2026
 - Primer pase de la interfaz nueva en Ajustes: tema negro y gris sobrio en Configuración. Antenas,
   Ultra ahorro, Fallos, Seguridad y el Panel ahora viven dentro de su pantalla nativa de Ajustes

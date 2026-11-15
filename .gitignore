@@ -3,3 +3,6 @@
 *.pem
 *.key
 keybox*
+revision-*
+revisiones/
+informe-*
