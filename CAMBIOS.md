@@ -1,5 +1,13 @@
 # Cambios de miamiOS
 
+## 1.8.1 — 15 de noviembre de 2026
+- Más liviana: los módulos de integridad ya no se instalan solos (se metían en cada app). Si la 1.8 los puso, se quitan.
+- Aspecto Pixel en negro AMOLED en todo el sistema: Ajustes con tarjetas redondas e íconos a color, fuente Google Sans Flex, Inicio con buscador abajo. En lo visible dice miamiOS.
+- Ultra ahorro real: pausa todas las apps menos las que eliges y las devuelve al salir.
+- Pantalla siempre activa prendida por defecto (se apaga en Ajustes > Pantalla > Pantalla de bloqueo).
+- Nuevo regulador de carga en Ajustes > Batería > Carga: velocidad lenta, normal o rápida, límite 80 / 90 / 100 % y watts en vivo.
+- Kernel propio recompilado (5.4.302-miamiOS) con el control de velocidad de carga.
+
 ## 1.8 — 15 de noviembre de 2026
 - Diseño Pixel oscuro en las apps propias (Panel, Energía, Fallos, Seguridad, Gestos y Canciones) y modo oscuro del sistema por defecto.
 - Gestos y Canciones ahora vienen incluidas en la ROM.
