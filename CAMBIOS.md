@@ -1,5 +1,10 @@
 # Cambios de miamiOS
 
+## 1.8.2 — 15 de noviembre de 2026
+- Diseño propio de miamiOS: nueva pantalla Ajustes > Pantalla > Estilo miamiOS (acento, forma de tarjetas, letra, densidad) y las apps propias (Energía, Gestos, Canciones, Seguridad, Fallos, Panel, Puente Mac) con el estilo de la pantalla Carga. Todo se puede volver a fábrica.
+- Kernel: el medidor de batería reintenta al arrancar, para que no quede una "batería falsa" si el chip tarda en contestar.
+- Carga: medidor de watts en vivo siempre en pantalla. La carga rápida llega al tope de fábrica del equipo (unos 52 W en la batería); los 65 W son la etiqueta del cargador.
+
 ## 1.8.1 — 15 de noviembre de 2026
 - Más liviana: los módulos de integridad ya no se instalan solos (se metían en cada app). Si la 1.8 los puso, se quitan.
 - Aspecto Pixel en negro AMOLED en todo el sistema: Ajustes con tarjetas redondas e íconos a color, fuente Google Sans Flex, Inicio con buscador abajo. En lo visible dice miamiOS.
