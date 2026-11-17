@@ -1,5 +1,10 @@
 # Cambios de miamiOS
 
+## 1.8.3 — 16 de noviembre de 2026
+- Nueva sección Ajustes > Internet y redes > Satélites: dice si hay un satélite de mensajes de Entel (Starlink directo al celular) a la vista, cuándo pasa el próximo, la cobertura de las próximas horas y una mira para apuntar el teléfono.
+- También muestra otros tipos: estaciones espaciales, meteorológicos, de radioaficionados, los más brillantes, Iridium y geoestacionarios.
+- No da internet, llamadas ni mensajes por satélite: eso depende de Entel. Funciona sin señal con los datos orbitales que trae; con internet los renueva solo mientras la pantalla está abierta.
+
 ## 1.8.2 — 15 de noviembre de 2026
 - Diseño propio de miamiOS: nueva pantalla Ajustes > Pantalla > Estilo miamiOS (acento, forma de tarjetas, letra, densidad) y las apps propias (Energía, Gestos, Canciones, Seguridad, Fallos, Panel, Puente Mac) con el estilo de la pantalla Carga. Todo se puede volver a fábrica.
 - Kernel: el medidor de batería reintenta al arrancar, para que no quede una "batería falsa" si el chip tarda en contestar.
