@@ -1,5 +1,12 @@
 # Cambios de miamiOS
 
+## 1.8.4 — 17 de noviembre de 2026
+- Nueva pantalla Panel > Ajustes de conexión > Conexión satelital: muestra en vivo la red (operador, 4G o 5G, banda y canal, señal, itinerancia), busca las redes cercanas y deja conectarse a una a mano o fijar banda y canal para probar "Entel SpaceX".
+- Toda prueba vuelve sola a la red automática a la hora elegida, al reiniciar, o con "Volver a red automática ahora".
+- Se puede marcar una red como satelital para que el teléfono la trate como tal. No deja marcar la red de tu SIM ni las redes de tierra de Chile; "Quitar marcas" deja todo como venía.
+- La app Satélites tiene un botón que abre esta pantalla.
+- No cambia el IMEI ni se hace pasar por otro modelo: si Entel deja entrar a este teléfono lo decide Entel.
+
 ## 1.8.3 — 16 de noviembre de 2026
 - Nueva sección Ajustes > Internet y redes > Satélites: dice si hay un satélite de mensajes de Entel (Starlink directo al celular) a la vista, cuándo pasa el próximo, la cobertura de las próximas horas y una mira para apuntar el teléfono.
 - También muestra otros tipos: estaciones espaciales, meteorológicos, de radioaficionados, los más brillantes, Iridium y geoestacionarios.
