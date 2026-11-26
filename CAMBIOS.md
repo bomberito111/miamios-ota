@@ -1,5 +1,14 @@
 # Cambios de miamiOS
 
+## 1.8.5 — 25 de noviembre de 2026
+- Diagnóstico reemplaza a Fallos: revisa el teléfono por dentro, guarda los reportes solo en el teléfono y avisa únicamente cuando algo falla, con botón Reportar. La app Fallos se retira.
+- Gestos: dos giros de muñeca guardan lo que está pasando y abren Diagnóstico. El chop chop sigue prendiendo la linterna.
+- Señal (Ajustes > Redes e Internet): medidor de potencia de subida y, a mano, fijar el 4G en un canal con señal y probar internet 30 s. Viene apagado y vuelve solo a automático al reiniciar o si en 30 s no hay servicio. El 5G no se toca.
+- Cámara miamiOS 1.1: foto y video con pausa.
+- Satélite: SOS y mensajes por satélite nativos de Android para SIM Entel (Panel › Conexión satelital › Activar SOS), abre Conectividad satelital de Ajustes. El enganche real a Entel SpaceX solo se confirma en terreno.
+- Todas las apps propias se rearmaron con la versión 1.8.5.
+- Queda para después: el parche de kernel pendiente y el teclado miamiOS.
+
 ## 1.8.4 — 17 de noviembre de 2026
 - Nueva pantalla Panel > Ajustes de conexión > Conexión satelital: muestra en vivo la red (operador, 4G o 5G, banda y canal, señal, itinerancia), busca las redes cercanas y deja conectarse a una a mano o fijar banda y canal para probar "Entel SpaceX".
 - Toda prueba vuelve sola a la red automática a la hora elegida, al reiniciar, o con "Volver a red automática ahora".
