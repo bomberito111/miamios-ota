@@ -1,5 +1,12 @@
 # Cambios de miamiOS
 
+## 2.0 — 26 de noviembre de 2026
+- Incluye todo lo de 1.8.5 (Diagnóstico, Señal con medidor de subida, Cámara 1.1, SOS satelital), que no alcanzó a publicarse.
+- Señal rehecha al estilo nativo de Ajustes (Redes e Internet).
+- Solo Starlink: nuevo modo "4G normal (datos completos)", activado de fábrica; la red Entel SpaceX se usa como 4G común, sin marcarla satelital. Se puede volver al modo satelital en Afinar.
+- Si la red rechaza la conexión (por ejemplo "hay cobertura de Entel"), Panel lo muestra, limpia la red bloqueada y reintenta con esperas de 2, 5 y 15 minutos. Nueva fila "Último rechazo".
+- Datos por satélite: elige qué apps usan la red satelital, con cupo de datos, y sigue funcionando en segundo plano con el ahorro de batería activo.
+
 ## 1.8.5 — 25 de noviembre de 2026
 - Diagnóstico reemplaza a Fallos: revisa el teléfono por dentro, guarda los reportes solo en el teléfono y avisa únicamente cuando algo falla, con botón Reportar. La app Fallos se retira.
 - Gestos: dos giros de muñeca guardan lo que está pasando y abren Diagnóstico. El chop chop sigue prendiendo la linterna.
